@@ -1,0 +1,4 @@
+/Users/Matia/Dev/Learning/Doctest/doctesttest/build/CMakeFiles/rebuild_cache.dir
+/Users/Matia/Dev/Learning/Doctest/doctesttest/build/CMakeFiles/edit_cache.dir
+/Users/Matia/Dev/Learning/Doctest/doctesttest/build/CMakeFiles/main.dir
+/Users/Matia/Dev/Learning/Doctest/doctesttest/build/CMakeFiles/calc.dir

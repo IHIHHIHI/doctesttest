@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.h
+
+/Users/Matia/Dev/Learning/Doctest/doctesttest/src/calc.cpp
+calc.h
+/Users/Matia/Dev/Learning/Doctest/doctesttest/src/calc.h
+
