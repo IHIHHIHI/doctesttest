@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.6)
 # Include cmake modules
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/CMake")
 
-project(doctest)
+project(doctesttest)
 
 # Set enable output of compile commands during generation
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
