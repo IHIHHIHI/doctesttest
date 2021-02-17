@@ -10,5 +10,5 @@ https://codecov.io/gh/IHIHHIHI/doctesttest
 mkdir build
 cd build
 cmake ..
-cmake --build .
+make
 ```
