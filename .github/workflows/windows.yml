@@ -32,4 +32,4 @@ jobs:
     - name: Build
       run: cd build && MSBuild.exe doctesttest.sln /p:Configuration=Release
     - name: Run Unit Test
-      run: /a/doctesttest/doctesttest/build/Release/main.exe
+      run: /a/doctesttest/doctesttest/build/Release/test/main.exe

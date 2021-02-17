@@ -50,4 +50,4 @@ jobs:
     - name: Build
       run: cd build && make
     - name: Run Unit Test
-      run: /Users/runner/work/doctesttest/doctesttest/build/main
+      run: /Users/runner/work/doctesttest/doctesttest/build/test/unit_test
