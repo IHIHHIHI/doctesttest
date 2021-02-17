@@ -1,5 +1,5 @@
 # Target name
-set(target uit_test)
+set(target unit_test)
 
 # Includes
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
